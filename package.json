@@ -1,0 +1,24 @@
+{
+  "name": "josapratama.com",
+  "version": "1.0.0",
+  "description": "Welcome to my personal portfolio website repository! This website showcases my profile, photo, skills, projects, and experiences as a Fullstack Web Developer.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx tailwindcss -i ./src/css/input.css -o ./public/css/output.css --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Josa1234/josapratama.com.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Josa1234/josapratama.com/issues"
+  },
+  "homepage": "https://github.com/Josa1234/josapratama.com#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.4.1"
+  }
+}
