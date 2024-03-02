@@ -582,6 +582,10 @@ video {
   }
 }
 
+.fixed {
+  position: fixed;
+}
+
 .absolute {
   position: absolute;
 }
@@ -1137,12 +1141,33 @@ body {
     max-width: 100%;
   }
 
+  .lg\:flex-col {
+    flex-direction: column;
+  }
+
+  .lg\:items-center {
+    align-items: center;
+  }
+
+  .lg\:justify-items-center {
+    justify-items: center;
+  }
+
   .lg\:rounded-none {
     border-radius: 0px;
   }
 
   .lg\:bg-transparent {
     background-color: transparent;
+  }
+
+  .lg\:bg-red-300 {
+    --tw-bg-opacity: 1;
+    background-color: rgb(252 165 165 / var(--tw-bg-opacity));
+  }
+
+  .lg\:text-center {
+    text-align: center;
   }
 
   .lg\:text-3xl {
