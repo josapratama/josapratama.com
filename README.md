@@ -25,4 +25,4 @@ Welcome to my personal portfolio website repository! This website showcases my p
 
 ### Desktop
 
-![desktop-preview](./src/images/desktop.jpg)
+![desktop-preview](/public/images/personal-website.jpg)
