@@ -693,32 +693,12 @@ video {
   display: none;
 }
 
-.h-20 {
-  height: 5rem;
+.h-56 {
+  height: 14rem;
 }
 
 .h-9 {
   height: 2.25rem;
-}
-
-.h-10 {
-  height: 2.5rem;
-}
-
-.h-36 {
-  height: 9rem;
-}
-
-.h-80 {
-  height: 20rem;
-}
-
-.h-60 {
-  height: 15rem;
-}
-
-.h-56 {
-  height: 14rem;
 }
 
 .w-10 {
